@@ -59,7 +59,7 @@
                     </descriptorRefs>
                     <archive>
                         <manifest>
-                            <mainClass>org.example.hadoop_demo01.WordcountDriver</mainClass>
+                            <mainClass>org.example.hadoop_demo01.wordcount.WordcountDriver</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
